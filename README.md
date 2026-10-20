@@ -1,16 +1,23 @@
-## Hi there 👋
+# Muhammad Ayan
 
-<!--
-**oyan2010/oyan2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Full-Stack Developer · Flutter & Kotlin · Pakistan**
 
-Here are some ideas to get you started:
+I build products that ship — mobile apps, web storefronts, and automation pipelines. Founder of [Oviro](https://oviro.vercel.app), a digital agency for small businesses: websites that get customers, business automation, and complete online-profile management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- **Mobile:** Flutter (Dart), Kotlin, Jetpack Compose
+- **Web:** React, TypeScript, Tailwind CSS
+- **AI & automation:** Python, n8n workflows, LLM APIs, scrapers & data pipelines
+
+## Featured Projects
+
+- [HadeesDB](https://github.com/oyan2010/HadeesDB) — Hadith corpus scrapers (sunnah.com → SQLite): full English + Arabic text, structured books/chapters, Urdu for Bukhari
+- [AnakHouse-Web](https://github.com/oyan2010/AnakHouse-Web) — Eyewear e-commerce storefront with filtering, cart, and prescription-lens flow (React + TypeScript)
+- [pocket-vault](https://github.com/oyan2010/pocket-vault) — 3D pocket-folder organiser for Android (Jetpack Compose)
+- [ArrowRush-3D](https://github.com/oyan2010/ArrowRush-3D) — Spatial puzzle game (Flutter, BLoC, Hive)
+
+## Contact
+
+- Web: [oviro.vercel.app](https://oviro.vercel.app)
+- Email: contactusonhere13@gmail.com
